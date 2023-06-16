@@ -62,9 +62,9 @@
   --muted-color: rgb(188,146,74,1);
   --online-color: #74C8C3;
   --idle-color: #20765A;
-  --dnd-color: #8C8888;
+  --dnd-color: #FF3511;
   --streaming-color: #B264ED;
-  --offline-color: #FF3511;
+  --offline-color: #8C8888;
   --main-font: Calibri;
   --code-font: consolas;
   --channels-width: 220px;
